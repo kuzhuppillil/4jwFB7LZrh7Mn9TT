@@ -1,7 +1,6 @@
 # d8Ps30XsTi68sD6W
 
-
-# Apziva Project 2 - Term Deposit Marketing
+Term Deposit Marketing
 
 ## Context:
 ### Domain: 
